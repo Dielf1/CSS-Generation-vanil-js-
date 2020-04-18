@@ -1,0 +1,67 @@
+h1 {
+    text-align: center;
+}
+
+
+.wraper-flex{
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+
+
+.wrapper-top, .wrapper-bottom {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+   
+}
+
+
+.wrapper-middle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+#cube {
+    width: 200px;
+    height: 200px;
+    background-color: rgba(24, 44, 136, 0.815);
+}
+
+
+input {
+    width: 150px;
+    padding: 5px;
+}
+
+
+#btn {
+    
+    background-color: rgba(24, 44, 136, 0.815);
+    color: #fff;
+    padding: 5px 30px;
+
+    
+}
+
+
+.result {
+    display: flex;
+    margin:0 auto;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
